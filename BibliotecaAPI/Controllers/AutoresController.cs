@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BibliotecaAPI.Entidades;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BibliotecaAPI.Controllers
 {
@@ -9,8 +10,14 @@ namespace BibliotecaAPI.Controllers
         // Hereda de la clase ControllerBase que es una clase que tiene funcionalidad auxiliar que nos ayuda a trabajar
 
         [HttpGet]
-        public string Get() {
-            return "Autores";
+        public IEnumerable<Autor> Get() {
+
+
+            return new List<Autor>
+            {
+                new Autor { Id = 1,Nombre="Juan" },
+                new Autor { Id = 2,Nombre="Vianney" }
+            };
         }
     }
 }
