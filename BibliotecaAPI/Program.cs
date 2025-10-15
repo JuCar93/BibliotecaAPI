@@ -8,7 +8,7 @@ builder.Services.AddControllers();  //Se habilita la funcionalidad de los contro
 
 
 builder.Services.AddDbContext<ApplicationDbContext>(opciones=>
-opciones.UseSqlServer("name=DefaultConectionCV"));
+opciones.UseSqlServer("name=DefaultConection"));
 
 #endregion
 

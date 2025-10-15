@@ -9,6 +9,7 @@ namespace BibliotecaAPI.Datos
         {
         }
 
-        public DbSet<Autor> Autores { get; set; }
+        public DbSet<Autor> Autores { get; set; } //Aqui se agrega la tabla Autor, viene de la clase Autor en Entidades
+        public DbSet<Libro> Libros { get; set; }
     }
 }
