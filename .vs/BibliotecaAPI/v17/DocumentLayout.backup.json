@@ -3,36 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\bibliotecaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan_\\AppData\\Local\\SourceServer\\847cbcf714590e98bbd7ffa2796ecfaeba310a5f57b3af2349f6d2471375025c\\BibliotecaAPI\\Controllers\\AutoresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,105 +50,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Program.cs",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Program.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "PrimeraLetraMayusculaAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T03:37:18.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LibrosController.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LibrosController.cs",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\LibrosController.cs",
-              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LibrosController.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Controllers\\LibrosController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T03:34:13.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Datos\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T03:30:43.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Libro.cs",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\Entidades\\Libro.cs",
-              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Libro.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Entidades\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T03:27:32.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\appsettings.Development.json",
-              "RelativeToolTip": "BibliotecaAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-15T03:24:13.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Autor.cs",
-              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\Entidades\\Autor.cs",
-              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Entidades\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T03:50:27.51Z",
+              "WhenOpened": "2025-10-15T23:43:04.005Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Entidades\\Autor.cs",
+              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Entidades\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:46:08.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\AppData\\Local\\SourceServer\\847cbcf714590e98bbd7ffa2796ecfaeba310a5f57b3af2349f6d2471375025c\\BibliotecaAPI\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\SourceServer\\847cbcf714590e98bbd7ffa2796ecfaeba310a5f57b3af2349f6d2471375025c\\BibliotecaAPI\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\juan_\\AppData\\Local\\SourceServer\\847cbcf714590e98bbd7ffa2796ecfaeba310a5f57b3af2349f6d2471375025c\\BibliotecaAPI\\Controllers\\AutoresController.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\SourceServer\\847cbcf714590e98bbd7ffa2796ecfaeba310a5f57b3af2349f6d2471375025c\\BibliotecaAPI\\Controllers\\AutoresController.cs [Solo lectura]",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAAAIAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T22:10:52.244Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AutoresController.cs",
               "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\AutoresController.cs",
               "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeToolTip": "BibliotecaAPI\\Controllers\\AutoresController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACUAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T03:41:18.357Z",
+              "WhenOpened": "2025-10-15T17:02:58.369Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BibliotecaAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
-              "RelativeDocumentMoniker": "BibliotecaAPI\\BibliotecaAPI.csproj",
-              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
-              "RelativeToolTip": "BibliotecaAPI\\BibliotecaAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-14T03:40:15.882Z"
             }
           ]
         }

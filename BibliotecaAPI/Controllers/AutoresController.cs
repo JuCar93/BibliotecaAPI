@@ -19,15 +19,24 @@ namespace BibliotecaAPI.Controllers
         }
 
 
-        [HttpGet]
+        [HttpGet("/listado-de-autores")]
+        [HttpGet ]
         public async Task<IEnumerable<Autor>> Get() {
 
 
             return await context.Autores.ToListAsync();
         }
 
-        [HttpGet("{id:int}")] // api/autores/id
-        public async Task<ActionResult<Autor>> Get(int id)
+        [HttpGet("primero")]
+        public async Task<Autor> GetPrimerAutor()
+        {
+
+
+            return await context.Autores.FirstAsync();
+        }
+
+        [HttpGet("{id:int}")] // api/autores/id?incluirLibros=true  esta es cuando es [FromQuery]
+        public async Task<ActionResult<Autor>> Get(int id, [FromHeader] bool incluirLibros  )
         {
             var autor = await context.Autores
                 .Include(x=> x.Libros)
@@ -42,6 +51,22 @@ namespace BibliotecaAPI.Controllers
                 return autor;
             }
         }
+
+
+        [HttpGet("{nombre:alpha}")] // api/autores/id
+        public async Task<IEnumerable<Autor>> Get(string nombre)
+        {
+            return await context.Autores
+                .Include(x=> x.Libros)
+                .Where(x=>x.Nombre.Contains(nombre)).ToListAsync();
+        }
+
+
+        //[HttpGet("{parametro1}/{parametro2?}")] // api/autores/id
+        //public ActionResult Get(string parametro1,string parametro2="Valor por defecto")
+        //{
+        //    return Ok(new {parametro1,parametro2});
+        //}
 
 
         [HttpPost]
@@ -84,15 +109,6 @@ namespace BibliotecaAPI.Controllers
                 return Ok();
             }
 
-            //if (autor is null)
-            //{
-            //    return NotFound();
-            //}
-            //else
-            //{
-            //    context.Remove(autor);
-            //    await context.SaveChangesAsync();
-            //}
         }
 
 
