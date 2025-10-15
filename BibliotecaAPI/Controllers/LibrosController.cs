@@ -25,7 +25,9 @@ namespace BibliotecaAPI.Controllers
         [HttpGet("{id:int}")]
         public async Task<ActionResult<Libro>> Get(int id)
         {
-            var libro = await context.Libros.FirstOrDefaultAsync(x => x.Id == id);
+            var libro = await context.Libros
+                .Include(x=>x.Autor)
+                .FirstOrDefaultAsync(x => x.Id == id);
 
             if (libro is null) { 
             

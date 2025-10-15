@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj": {}
+    "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj": {
+    "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
         "projectName": "BibliotecaAPI",
-        "projectPath": "C:\\Users\\Carlos\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
-        "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos\\source\\repos\\BibliotecaAPI\\BibliotecaAPI\\obj\\",
+        "projectPath": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
