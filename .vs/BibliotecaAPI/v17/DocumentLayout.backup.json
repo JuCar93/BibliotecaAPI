@@ -57,8 +57,7 @@
               "RelativeToolTip": "BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T23:43:04.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T23:43:04.005Z"
             },
             {
               "$type": "Document",
@@ -66,9 +65,9 @@
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Entidades\\Autor.cs",
-              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs",
-              "RelativeToolTip": "BibliotecaAPI\\Entidades\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs*",
+              "RelativeToolTip": "BibliotecaAPI\\Entidades\\Autor.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T22:46:08.707Z",
               "EditorCaption": ""

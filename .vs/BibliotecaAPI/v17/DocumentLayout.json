@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\controllers\\valorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\valorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\repositoriovalores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\repositoriovalores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\entidades\\valor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\entidades\\valor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|c:\\users\\juan_\\desktop\\bibliotecaapi\\bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EF056A-2299-458E-9542-77047308F8D6}|BibliotecaAPI\\BibliotecaAPI.csproj|solutionrelative:bibliotecaapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\juan_\\AppData\\Local\\SourceServer\\847cbcf714590e98bbd7ffa2796ecfaeba310a5f57b3af2349f6d2471375025c\\BibliotecaAPI\\Controllers\\AutoresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -25,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +70,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RepositorioValores.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\RepositorioValores.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\RepositorioValores.cs",
+              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\RepositorioValores.cs",
+              "RelativeToolTip": "BibliotecaAPI\\RepositorioValores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:53:48.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Valor.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Valor.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Entidades\\Valor.cs",
+              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Valor.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Entidades\\Valor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:49:16.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValoresController.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\ValoresController.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\ValoresController.cs",
+              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\ValoresController.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Controllers\\ValoresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:44:26.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:12:19.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "BibliotecaAPI\\Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Libro.cs",
+              "RelativeToolTip": "BibliotecaAPI\\Entidades\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:37:30.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "PrimeraLetraMayusculaAttribute.cs",
               "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
@@ -57,25 +142,24 @@
               "RelativeToolTip": "BibliotecaAPI\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T23:43:04.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T23:43:04.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Autor.cs",
               "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Entidades\\Autor.cs",
               "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Entidades\\Autor.cs",
               "RelativeToolTip": "BibliotecaAPI\\Entidades\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T22:46:08.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "AutoresController.cs",
               "DocumentMoniker": "C:\\Users\\juan_\\AppData\\Local\\SourceServer\\847cbcf714590e98bbd7ffa2796ecfaeba310a5f57b3af2349f6d2471375025c\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\SourceServer\\847cbcf714590e98bbd7ffa2796ecfaeba310a5f57b3af2349f6d2471375025c\\BibliotecaAPI\\Controllers\\AutoresController.cs",
@@ -88,13 +172,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AutoresController.cs",
               "DocumentMoniker": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeDocumentMoniker": "BibliotecaAPI\\Controllers\\AutoresController.cs",
               "ToolTip": "C:\\Users\\juan_\\Desktop\\BibliotecaAPI\\BibliotecaAPI\\Controllers\\AutoresController.cs",
               "RelativeToolTip": "BibliotecaAPI\\Controllers\\AutoresController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACUAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T17:02:58.369Z",
               "EditorCaption": ""
